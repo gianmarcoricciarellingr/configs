@@ -4,8 +4,8 @@ SETUVAR --export LANG:en_US\x2eUTF\x2d8
 SETUVAR --export LC_ALL:en_US\x2eUTF\x2d8
 SETUVAR --export --path PKG_CONFIG_PATH:/home/linuxbrew/\x2elinuxbrew/opt/readline/lib/pkgconfig
 SETUVAR --export PYENV_ROOT:/home/gianmarcoricciarelli/\x2epyenv
-SETUVAR --export SSH_AGENT_PID:539
-SETUVAR --export SSH_AUTH_SOCK:/tmp/ssh\x2dtiCo9vf0YgwH/agent\x2e537
+SETUVAR --export SSH_AGENT_PID:1051
+SETUVAR --export SSH_AUTH_SOCK:/tmp/ssh\x2dJSxkhS0eu0Gb/agent\x2e1049
 SETUVAR ZO_CMD:zo
 SETUVAR Z_CMD:z
 SETUVAR Z_DATA:/home/gianmarcoricciarelli/\x2elocal/share/z/data
