@@ -26,3 +26,4 @@ end
 
 starship init fish | source
 pyenv init - fish | source
+pyenv virtualenv-init - | source
