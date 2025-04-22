@@ -1,0 +1,12 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+
+[directory]
+truncation_length = 0
+truncate_to_repo = false
+home_symbol = "/home/gianmarcoricciarelli"
+
+[nodejs]
+symbol = "node "
+
+[python]
+symbol = "python "
